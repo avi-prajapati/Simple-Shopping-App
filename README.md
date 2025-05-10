@@ -1,4 +1,4 @@
-<h1 align="left">🎵🎺Simple Shopping App🎹</h1>
+<h1 align="left">🛒🛍️Simple Shopping App🛍️</h1>
 
 ###
 
