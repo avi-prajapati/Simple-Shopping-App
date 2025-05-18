@@ -18,12 +18,12 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://github.com/avi-prajapati/Simple-Shopping-App/blob/main/screenshot/1.jpg?raw=true">
-  <img height="200" src="https://github.com/avi-prajapati/Simple-Shopping-App/blob/main/screenshot/2.jpg?raw=true">
-  <img height="200" src="https://github.com/avi-prajapati/Simple-Shopping-App/blob/main/screenshot/3.jpg?raw=true">
-  <img height="200" src="https://github.com/avi-prajapati/Simple-Shopping-App/blob/main/screenshot/4.jpg?raw=true">
-</div>
+<kbd>
+  <img  src="https://github.com/avi-prajapati/Simple-Shopping-App/blob/main/screenshot/1.jpg" width=30% height=30%/>
+  <img src="https://github.com/avi-prajapati/Simple-Shopping-App/blob/main/screenshot/2.jpg" width=30% height=30%/>
+  <img  src="https://github.com/avi-prajapati/Simple-Shopping-App/blob/main/screenshot/3.jpg" width=30% height=30%/>
+  <img src="https://github.com/avi-prajapati/Simple-Shopping-App/blob/main/screenshot/4.jpg" width=30% height=30%/>
+</kbd>
 
 ###
 
